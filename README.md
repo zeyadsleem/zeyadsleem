@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeyad Sleem
 - 👀 I’m interested in Software Engineering & Front-End 
-- 🌱 I’m currently React & Redux
+- 🌱 I’m currently intern Frontend Developer
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me (  zeyadsleem1@gmail.com ) 
 
