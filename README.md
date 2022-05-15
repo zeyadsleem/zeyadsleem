@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zeyad Sleem
+- 👋 Hi, I’m @ZeyadSleem
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently intern Frontend Developer
 - 💞️ I’m looking to collaborate on projects 
