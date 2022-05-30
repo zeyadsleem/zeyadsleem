@@ -1,5 +1,5 @@
 ## Hey, I'm Zeyad. 
-I live in Cairo, Egypt. I like Reading, good food, being outside, and coding. Cohort 2009-FSA. Developer @ FGH.
+man
 
 ### Get In Touch
 <a href="mailto:zeyadsleem1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/zeyad-sleem"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCMGSgppCK-hp4zmeqhp7CIw"><a href="https://www.sleem.dev"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
