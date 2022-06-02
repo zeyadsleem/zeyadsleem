@@ -14,7 +14,6 @@ Front-end developer based on Egypt
 ![](https://img.shields.io/badge/‎-Babel-F9DC3E?logo=babel&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-NodeJS-339933?logo=Node.js&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-SQLite-003B57?logo=sqlite&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-Docker-2496ED?logo=docker&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-Firebase-FFCA28?logo=firebase&logoColor=white&style=plastic)
