@@ -23,10 +23,3 @@ Front-end developer based in Egypt
 ![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-Jest-C21325?logo=jest&logoColor=white&style=plastic)
-
-
-
-### My Favorite Project Repos
-* <a href="https://github.com/zeyadsleem"></a> - project1
-* <a href="https://github.com/zeyadsleem"></a> - project2
-* <a href="https://github.com/zeyadsleem"></a> - project3
